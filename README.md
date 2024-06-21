@@ -1,4 +1,5 @@
-[![SB's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+[![SB's GitHub Banner](./gh-banner.png
+)](https://sebastianselling.com)
 
 
 Hi 👋 My name is Sebastian selling
