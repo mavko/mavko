@@ -11,7 +11,7 @@ Designer & Frontend Dev
 Love of the craft since I first laid my hands on Photoshop back in 2001, where I spent my days designing forum signatures and gaming wallpapers. Fast forward to 2012 and my career in making apps took off, initially iOS but overtime quickly focused my efforts on web development and brand design. Today I dabble in fullstack development, but mostly frontend with a focus on the design and experience. Entrepreneurial spirit, hence I dream up big ideas and try and make them a reality - mostly in construction or properties.
 
 *   🌍  I'm based in Stockholm, Sweden
-*   🖥️  See my portfolio at [sebastianselling.com](http://sebastianselling.com)
+*   🖥️  See my personal page at [sebastianselling.com](http://sebastianselling.com)
 *   ✉️  You can contact me at [houseofselling@proton.me](mailto:houseofselling@proton.me)
 *   🚀  I'm currently working on [besiktningsman.se](https://besiktningsman.se), starting up [drykit sensor](https://drykit.co) and building new products TBA!
 *   🧠  I'm learning Nextjs + backend in general
