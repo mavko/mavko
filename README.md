@@ -13,7 +13,7 @@ Love of the craft since I first laid my hands on Photoshop back in 2001, where I
 *   🌍  I'm based in Stockholm, Sweden
 *   🖥️  See my portfolio at [sebastianselling.com](http://sebastianselling.com)
 *   ✉️  You can contact me at [houseofselling@proton.me](mailto:houseofselling@proton.me)
-*   🚀  I'm currently working on [ispect.se](http://ispect.se)
+*   🚀  I'm currently working on [besiktningsman.se](https://besiktningsman.se), starting up [drykit sensor](https://drykit.co) and building new products TBA!
 *   🧠  I'm learning Nextjs + backend in general
   
   ### Skills 
