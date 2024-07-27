@@ -1,4 +1,4 @@
-![CleanShot 2024-07-27 at 11 56 20](https://github.com/user-attachments/assets/960b96bb-abc9-4a76-95e1-f5c1f07c802f)[![SB's GitHub Banner](./gh-banner.png
+[![SB's GitHub Banner](./gh-banner.png
 )](https://sebastianselling.com)
 
 
