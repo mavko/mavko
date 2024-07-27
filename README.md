@@ -1,4 +1,4 @@
-[![SB's GitHub Banner](./gh-banner.png
+![CleanShot 2024-07-27 at 11 56 20](https://github.com/user-attachments/assets/960b96bb-abc9-4a76-95e1-f5c1f07c802f)[![SB's GitHub Banner](./gh-banner.png
 )](https://sebastianselling.com)
 
 
@@ -13,7 +13,7 @@ Love of the craft since I first laid my hands on Photoshop back in 2001, where I
 *   🌍  I'm based in Stockholm, Sweden
 *   🖥️  See my personal page at [sebastianselling.com](http://sebastianselling.com)
 *   ✉️  You can contact me at [houseofselling@proton.me](mailto:houseofselling@proton.me)
-*   🚀  I'm currently working on [besiktningsman.se](https://besiktningsman.se), starting up [drykit sensor](https://drykit.co) and building new products TBA!
+*   🚀  I'm currently working on [besiktningsman.se](https://besiktningsman.se), starting up [drykit sensor](https://drykit.co) and building new products @ [g:corp](https://dub.sh/gcorp)!
 *   🧠  I'm learning Nextjs + backend in general
   
   ### Skills 
