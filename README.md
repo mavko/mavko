@@ -5,7 +5,7 @@
 Hi 👋 My name is Sebastian selling
 ==================================
 
-Designer & Frontend Dev
+Designer, Web artisan and Maker from Sweden
 -----------------------
 
 Love of the craft since I first laid my hands on Photoshop back in 2001, where I spent my days designing forum signatures and gaming wallpapers. Fast forward to 2012 and my career in making apps took off, initially iOS but overtime quickly focused my efforts on web development and brand design. Today I dabble in fullstack development, but mostly frontend with a focus on the design and experience. Entrepreneurial spirit, hence I dream up big ideas and try and make them a reality - mostly in construction or properties.
@@ -13,8 +13,8 @@ Love of the craft since I first laid my hands on Photoshop back in 2001, where I
 *   🌍  I'm based in Stockholm, Sweden
 *   🖥️  See my personal page at [sebastianselling.com](http://sebastianselling.com)
 *   ✉️  You can contact me at [houseofselling@proton.me](mailto:houseofselling@proton.me)
-*   🚀  I'm currently working on [besiktningsman.se](https://besiktningsman.se), starting up [drykit sensor](https://drykit.co) and building new products @ [g:corp](https://dub.sh/gcorp)!
-*   🧠  I'm learning Nextjs + backend in general
+*   🚀  I'm currently working on [sharedspace.se](https://sharedspace.se), my proptech app for real estate managers, starting up [din.fastighetsförvaltare](https://dinfastighetsforvaltare.se) and helping the family biz @ [besiktningsman.se](https://besiktningsman.se)!
+*   🧠  Honing my design taste and craftmanship as Claude does more and more of the coding
   
   ### Skills 
 <p align="left">
