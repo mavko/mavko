@@ -2,19 +2,39 @@
 )](https://sebastianselling.com)
 
 
-Hi 👋 My name is Sebastian selling
-==================================
+### Hi, I'm Sebastian 👋  
+Design Engineer with 13+ years of experience at the intersection of design and code.
 
-Designer, Web artisan and Maker from Sweden
------------------------
+I've helped build enterprise SaaS products like **ispect** and **icontrol**, handling everything from branding and product design to front-end implementation with Vue and CSS. These days I mostly work with **Next.js**, **Tailwind CSS**, **shadcn/ui**, and **Astro**—currently building [sharedspace.se](https://sharedspace.se), a proptech page builder.
 
-Love of the craft since I first laid my hands on Photoshop back in 2001, where I spent my days designing forum signatures and gaming wallpapers. Fast forward to 2012 and my career in making apps took off, initially iOS but overtime quickly focused my efforts on web development and brand design. Today I dabble in fullstack development, but mostly frontend with a focus on the design and experience. Entrepreneurial spirit, hence I dream up big ideas and try and make them a reality - mostly in construction or properties.
+I'm especially interested in working on projects in **crypto, AI, esports,** and **startups**—anywhere design craft and clean code can make a real impact.
 
-*   🌍  I'm based in Stockholm, Sweden
-*   🖥️  See my personal page at [sebastianselling.com](http://sebastianselling.com)
-*   ✉️  You can contact me at [houseofselling@proton.me](mailto:houseofselling@proton.me)
-*   🚀  I'm currently working on [sharedspace.se](https://sharedspace.se), my proptech app for real estate managers, starting up [din.fastighetsförvaltare](https://dinfastighetsforvaltare.se) and helping the family biz @ [besiktningsman.se](https://besiktningsman.se)!
+---
+
+**Tech Stack:**  
+- Front-End: React, Vue, Next.js, Astro  
+- Styling: Tailwind CSS, shadcn/ui, CSS  
+- Design: Figma, Sketch  
+- Focus: UI/UX, branding & design polish
+
+---
+
+**Now:**  
+*   🔎 Open to new opportunities or collaborations  
+*   📍 Based in Sweden  
+*   🏡 Building side projects & helping my folks with their biz
+*   🖥️  See some of my work @ [sebastianselling.com](http://sebastianselling.com)
+*   🚀  I'm currently working on [sharedspace.se](https://sharedspace.se), my proptech app for real estate managers.
 *   🧠  Honing my design taste and craftmanship as Claude does more and more of the coding
+---
+
+**Contact me:**  
+📧 houseofselling@proton.me  
+🐦 [@houseofselling](https://x.com/houseofselling)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-selling)
+
+
+
   
   ### Skills 
 <p align="left">
