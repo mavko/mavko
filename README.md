@@ -20,11 +20,9 @@ I'm especially interested in working on projects in **crypto, AI, esports,** and
 ---
 
 **Now:**  
-*   🔎 Open to new opportunities or collaborations  
 *   📍 Based in Sweden  
-*   🏡 Building side projects & helping my folks with their biz
 *   🖥️  See some of my work @ [sebastianselling.com](http://sebastianselling.com)
-*   🚀  I'm currently working on [sharedspace.se](https://sharedspace.se), my proptech app for real estate managers.
+*   🚀  I'm currently working on real estate tech ventures
 *   🧠  Honing my design taste and craftmanship as Claude does more and more of the coding
 ---
 
