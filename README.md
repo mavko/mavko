@@ -22,4 +22,4 @@ I've helped build enterprise SaaS products like **ispect** and **icontrol**, han
 **Connect:**  
 📧 houseofselling@proton.me  
 🐦 [@houseofselling](https://x.com/houseofselling)  
-🔗 [LinkedIn](https://www.linkedin.com/in/sebastian-selling)
+🔗 [LinkedIn]([https://www.linkedin.com/in/sebastian-selling](https://www.linkedin.com/in/sebastianselling/))
