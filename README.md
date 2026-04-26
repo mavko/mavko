@@ -1,4 +1,4 @@
-[![SB's GitHub Banner](./banner.jpg
+[![SB's GitHub Banner](./Frame@2x.jpg
 )](https://sebastianselling.com)
 
 
